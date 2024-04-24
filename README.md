@@ -8,7 +8,7 @@ Bienvenido! Soy un desarrollador de software full stack. Aspiro a convertirme en
 
 
 - 📫 Como me encuentras?: 
-  - <a href="https://www.linkedin.com/in/emanuel-facendini-4299181ba/" target="_blank">Emanuel Facendini</a> en Linkedin
+  - <a href="https://www.linkedin.com/in/francomatiasravera/" target="_blank">Franco Matias Ravera </a> en Linkedin
   - <a href="mailto:francomatiasravera@hotmail.com">francomatiasravera@hotmail.com</a>
 
 <hr />
