@@ -1,5 +1,8 @@
+<h1 align="center">Franco Matías Ravera</h1>
+
 <p align="center">
-  <img src="banner.png" alt="Franco Matías Ravera — El producto completo, punta a punta" width="100%" />
+  <b>El producto completo, punta a punta.</b><br>
+  Full stack con el peso en el backend.
 </p>
 
 <p align="center">
@@ -155,9 +158,3 @@ Firebase**.
 
 **Henry Bootcamp** · Full Stack Web Development · 2023 · 800 horas
 Español (nativo) · Inglés (intermedio, B1)
-
----
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/2E6BFF/franravera" alt="Contribuciones" width="100%" />
-</p>
