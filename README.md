@@ -1,103 +1,163 @@
-<h1 align="center">👋 Hola, soy Franco Matías Ravera</h1>
-<h3 align="center">Desarrollador Backend | Node.js | NestJS | TypeScript | APIs RESTful | Cloud & Automatización</h3>
+<p align="center">
+  <img src="banner.png" alt="Franco Matías Ravera — El producto completo, punta a punta" width="100%" />
+</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/francomatiasravera" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Franco%20Matías%20Ravera-blue?logo=linkedin&style=flat-square" />
+  <a href="https://francomatiasravera.com">
+    <img src="https://img.shields.io/badge/Portfolio-francomatiasravera.com-2E6BFF?style=for-the-badge&labelColor=1F2328" alt="Portfolio" />
   </a>
-  &nbsp;&nbsp;
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/francomatiasravera/">
+    <img src="https://img.shields.io/badge/LinkedIn-1F2328?style=for-the-badge&logoColor=white" alt="LinkedIn" />
+  </a>
   <a href="mailto:francomatiasravera@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-francomatiasravera%40hotmail.com-red?logo=gmail&style=flat-square" />
+    <img src="https://img.shields.io/badge/Email-1F2328?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" />
   </a>
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Ubicación-Paraná%2C%20Entre%20Ríos%20(AR)-gray?style=flat-square" />
+  <a href="https://wa.me/5493435210006">
+    <img src="https://img.shields.io/badge/WhatsApp-1F2328?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/2%2B-a%C3%B1os%20construyendo%20software-1F2328?style=flat-square&labelColor=2E6BFF" />
+  <img src="https://img.shields.io/badge/6%2B-empresas%20usando%20mi%20c%C3%B3digo-1F2328?style=flat-square&labelColor=2E6BFF" />
+  <img src="https://img.shields.io/badge/5%2B-industrias-1F2328?style=flat-square&labelColor=2E6BFF" />
+  <img src="https://img.shields.io/badge/40%2B-tecnolog%C3%ADas-1F2328?style=flat-square&labelColor=2E6BFF" />
 </p>
 
 ---
 
-### 💡 Sobre mí
+## Sobre mí
 
-Soy **Desarrollador Backend especializado en Node.js, NestJS y TypeScript**, enfocado en la creación de **sistemas escalables, seguros y eficientes**.  
-Trabajo con **bases de datos relacionales (PostgreSQL, MySQL)** y ORMs modernos como **Prisma, TypeORM y Sequelize**, priorizando la robustez y el rendimiento.
+Desarrollador full stack semi senior con más de 2 años construyendo software que hoy está
+en producción con clientes reales. Trabajo las dos puntas del producto, pero **mi
+orientación es el backend**: es donde tomo las decisiones de arquitectura y donde hago el
+aporte más fuerte.
 
-Me apasiona la **automatización de procesos** y las **integraciones inteligentes** entre plataformas, conectando APIs externas e incorporando IA (OpenAI) para crear herramientas inteligentes que optimizan tareas y mejoran la eficiencia operativa.
+Ahí diseño e implemento **APIs REST y GraphQL, microservicios, integraciones con servicios
+externos, automatización de procesos y comunicación en tiempo real**, sobre arquitecturas
+modulares y desacopladas. Diseño el esquema de datos y optimizo el rendimiento de las
+consultas sobre bases que ya están en uso.
 
-Además, desarrollo interfaces con **React y Next.js**, lo que me permite comprender todo el ciclo de desarrollo y entregar soluciones completas y orientadas al usuario.
+También construyo la interfaz que consume esas APIs con **React, Next.js y Angular**, y me
+hago cargo del ciclo hasta producción: contenedores, CI/CD y despliegue en la nube.
 
 ---
 
-### ⚙️ Stack Tecnológico
+## Stack
 
-**Backend**
-> Node.js • NestJS • Express • TypeScript • Prisma • TypeORM • Sequelize  
-> RESTful APIs • WebSockets • Microservicios • Automatización • OpenAI API
+**Backend y APIs**
+
+![Node.js](https://img.shields.io/badge/Node.js-1F2328?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-1F2328?style=flat-square&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-1F2328?style=flat-square&logo=express&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-1F2328?style=flat-square&logo=typescript&logoColor=white)
+![REST](https://img.shields.io/badge/REST%20APIs-1F2328?style=flat-square&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-1F2328?style=flat-square&logo=graphql&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-1F2328?style=flat-square&logo=socketdotio&logoColor=white)
+![Microservicios](https://img.shields.io/badge/Microservicios-1F2328?style=flat-square&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-1F2328?style=flat-square&logo=jest&logoColor=white)
+
+**Bases de datos y ORMs**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1F2328?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-1F2328?style=flat-square&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-1F2328?style=flat-square&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-1F2328?style=flat-square&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-1F2328?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-1F2328?style=flat-square&logo=redis&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-1F2328?style=flat-square&logo=prisma&logoColor=white)
+![TypeORM](https://img.shields.io/badge/TypeORM-1F2328?style=flat-square&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-1F2328?style=flat-square&logo=sequelize&logoColor=white)
 
 **Frontend**
-> React.js • Next.js • TypeScript • Tailwind CSS • Material UI • HTML5 • CSS3
 
-**Base de Datos y Cloud**
-> PostgreSQL • MySQL • Docker • Google Cloud Run • Firebase • AWS • PM2 • Cloudinary
+![React](https://img.shields.io/badge/React-1F2328?style=flat-square&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-1F2328?style=flat-square&logo=nextdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-1F2328?style=flat-square&logo=angular&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-1F2328?style=flat-square&logo=redux&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-1F2328?style=flat-square&logo=tailwindcss&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material%20UI-1F2328?style=flat-square&logo=mui&logoColor=white)
+![PrimeNG](https://img.shields.io/badge/PrimeNG-1F2328?style=flat-square&logoColor=white)
 
-**Herramientas**
-> Git • GitHub • Postman • Jira • Figma • Draw.io
+**Cloud e infraestructura**
 
----
-
-### 🚀 Experiencia Destacada
-
-#### 🧩 Backend Developer – [18Dev](https://18dev.com)  
-**Enero 2025 – Actualidad | Buenos Aires (Remoto)**  
-Desarrollo APIs robustas y automatizaciones para empresas como **Volkswagen**, **Buhl Group**, **Kalpa** y **Claro**.  
-Diseño sistemas multibase de datos, integraciones con OpenSearch, y scripts para análisis de energía, optimizando procesos y reduciendo tareas manuales.
-
-#### 💻 Full Stack Developer – Blu Realty & Investments  
-**Sept 2024 – Ene 2025 | Miami (Remoto)**  
-Diseño de soluciones full stack, integraciones con CRM Zoho, y desarrollo de asistentes con IA para automatizar procesos de negocio.
-
-#### 🚗 Proyecto Personal – [RodAR](https://rodar.ar)  
-**Agosto 2024 – Actualidad | Paraná, Argentina**  
-Plataforma completa para gestión de concesionarios: frontend en **Next.js**, backend en **NestJS + Prisma + MySQL**, imágenes con **Cloudinary** y arquitectura en capas.  
-En producción, con panel administrativo, autenticación JWT y subida de vehículos con imágenes.
-
-#### 🐶 Fundación Callejeritos  
-**Jun 2024 – Ago 2024 | Voluntariado**  
-Desarrollo backend completo para facilitar adopciones y donaciones con **Node.js**, **Sequelize**, **PostgreSQL** y **MercadoPago**.
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-1F2328?style=flat-square&logo=googlecloud&logoColor=white)
+![Cloud Run](https://img.shields.io/badge/Cloud%20Run-1F2328?style=flat-square&logo=googlecloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-1F2328?style=flat-square&logo=firebase&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-1F2328?style=flat-square&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-1F2328?style=flat-square&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-1F2328?style=flat-square&logo=githubactions&logoColor=white)
+![PM2](https://img.shields.io/badge/PM2-1F2328?style=flat-square&logo=pm2&logoColor=white)
 
 ---
 
-### 🧠 Habilidades Profesionales
+## Experiencia
 
-- **Backend avanzado** con foco en arquitectura limpia y optimización.
-- **Integración de sistemas complejos** mediante APIs RESTful y WebSockets.
-- **Automatización de procesos** y desarrollo de scripts de análisis.
-- **Implementación de IA aplicada** con OpenAI.
-- **Gestión de entornos cloud** y despliegue en producción.
-- **Trabajo colaborativo, comunicación efectiva y autonomía.**
+### Full Stack Developer · [18Dev](https://18dev.com.ar)
+`Enero 2025 – Actualidad` · Buenos Aires, AR · Remoto
+
+Trabajo las dos puntas del producto para clientes enterprise: APIs escalables con
+**Node.js, NestJS y TypeScript**, y las interfaces en **Angular y Next.js** que las
+consumen. Diseño, optimizo y mantengo las bases SQL que están detrás.
+
+<table>
+  <tr>
+    <td><b>Volkswagen</b></td>
+    <td>Encuestas internas y análisis de feedback para la red de concesionarios, con integración a WhatsApp.</td>
+  </tr>
+  <tr>
+    <td><b>Grupo Buhl</b></td>
+    <td>Plataforma que unifica procesos y datos de ocho empresas del grupo, integrada con el ERP Tango.</td>
+  </tr>
+  <tr>
+    <td><b>Kalpa Group</b></td>
+    <td>Pesaje de camiones y despacho de combustible sobre la base SQL Server donde viven los documentos de SAP.</td>
+  </tr>
+  <tr>
+    <td><b>Claro</b></td>
+    <td>Cálculo automatizado del PUE de un datacenter, con métricas extraídas por lotes desde OpenSearch.</td>
+  </tr>
+  <tr>
+    <td><b>Hyundai Seoul</b></td>
+    <td>CRM de leads con bandeja única de WhatsApp Business y chat en tiempo real sobre WebSockets.</td>
+  </tr>
+  <tr>
+    <td><b>Patagonia Flooring</b></td>
+    <td>El mismo CRM adaptado a pisos y revestimientos, con módulo de analytics comercial.</td>
+  </tr>
+</table>
+
+### Full Stack Web Developer · Blu Realty & Investments
+`Septiembre 2024 – Enero 2025` · Miami, FL, US · Remoto
+
+Aplicaciones web full stack para una inmobiliaria, con el foco en automatizar el trabajo
+comercial: integraciones con **Zoho CRM** (leads, contratos y triggers en Deluge),
+asistentes de IA con voz dentro del flujo de venta, y despliegue en **Cloud Run y
+Firebase**.
 
 ---
 
-### 📂 Proyectos Destacados
+## Proyectos
 
-#### [RodAR – Concesionario de vehículos](https://rodar.ar)
-**NestJS • Next.js • Prisma • Cloudinary • MySQL**  
-Plataforma de gestión para venta de autos, con panel admin, control de ventas, clientes y contratos PDF generados automáticamente.
-
-#### [AI Voice ChatBot](#)
-**Node.js • WebSockets • OpenAI API • React**  
-Asistente inteligente con chat y voz en tiempo real, reconocimiento de voz y respuesta auditiva natural.
-
-#### [Bosco – Alojamiento para mascotas](https://front-bosco.up.railway.app/)
-**React • Node.js • Express • Tailwind • PostgreSQL**  
-Marketplace que conecta dueños de mascotas con cuidadores, con pagos seguros, calificaciones y panel administrativo.
+| Proyecto | Qué es | Stack |
+| --- | --- | --- |
+| **ADM Consorcio** | Administración de edificios y consorcios: expensas en PDF, notificaciones de pago y cálculo de intereses por mora. En producción. | NestJS · TypeScript · PostgreSQL · TypeORM · Angular · PrimeNG |
+| **AI Voice Chat Bot** | Asistente con conversación por texto y por voz en tiempo real, con reconocimiento y síntesis de voz. | Node.js · WebSockets · React · TypeScript |
+| **Estudio Martínez & Asoc.** | Gestión para estudios jurídicos: expedientes, plazos con feriados judiciales, honorarios y auditoría. Multi-tenant. | NestJS · TypeScript · PostgreSQL · Prisma · Redis · Next.js · Docker |
+| **Rodar** | Concesionario de vehículos: catálogo público y panel de inventario con galerías optimizadas. | NestJS · TypeScript · MySQL · Prisma · Next.js · Cloudinary |
 
 ---
 
-### 📈 Estadísticas de GitHub
+## Formación
+
+**Henry Bootcamp** · Full Stack Web Development · 2023 · 800 horas
+Español (nativo) · Inglés (intermedio, B1)
+
+---
+
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=franravera&show_icons=true&theme=tokyonight" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franravera&layout=compact&theme=tokyonight" />
+  <img src="https://ghchart.rshah.org/2E6BFF/franravera" alt="Contribuciones" width="100%" />
 </p>
-
----
-
-<h3 align="center">🚀 Siempre aprendiendo, creando y mejorando</h3>
